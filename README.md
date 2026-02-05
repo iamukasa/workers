@@ -91,7 +91,7 @@ flowchart TD
 - `tests/agents/` for agent tests and evals.
 
 ## IMPORTANT
-be sure to add IDE settings from gitignore so taht they are not committed especially
+Be sure to add IDE settings from gitignore so that they are not committed especially
 .cursor/
 .firebender/
 
